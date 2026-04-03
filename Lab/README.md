@@ -27,10 +27,10 @@ The program must find the local peak elements in the matrix, print these element
 
 ## Example
 
+```text
 **Enter the matrix size:** 4
 
 **Enter the matrix elements:**
-```text
 3  8  2  1
 7  5  9  4
 6 10  3  2
